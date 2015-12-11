@@ -3,7 +3,7 @@
 //  Calculator
 //
 //  Created by Harry on 15/12/7.
-//  Copyright © 2015年 Harry Chen. All rights reserved.
+//  Copyright © 2015 Harry Chen. All rights reserved.
 //
 
 import UIKit
