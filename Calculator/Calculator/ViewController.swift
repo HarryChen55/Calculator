@@ -242,7 +242,9 @@ class ViewController: UIViewController {
         
         display2.text = display3.text! + " to Binary"
         display3.text = convertedInt + convertedDec
+        inputStack.removeAll()
         userIsTyping = false
+        operatorPressed = "none"
     }
     
     
